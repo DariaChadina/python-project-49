@@ -9,3 +9,6 @@ https://asciinema.org/connect/6a6e1707-e135-4286-8a06-ad19a7c6d1af
 
 ###Asciinema(brain-calc)
 https://asciinema.org/a/uXxL18jIS2ZOHbWt6CyNvaY7D
+
+###Asciinema(brain-gcd)
+https://asciinema.org/a/zwzkmroS4PLaVxR6xXJziqoEj
