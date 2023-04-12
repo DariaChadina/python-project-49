@@ -1,11 +1,10 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "The Brain Games  project is a collection of four logical games"
+description = ""
 authors = ["Chadina <<dasha_dasha_dash@mail.ru>>"]
 readme = "README.md"
 packages = [{include = "brain_games"}]
-repository = "https://github.com/DariaChadina/python-project-49.git"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
