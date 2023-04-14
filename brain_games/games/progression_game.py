@@ -1,6 +1,5 @@
 from brain_games.game_logic import run_game, generate_question
 import random
-import prompt
 
 
 DESCRIPTION = 'What number is missing in the progression?'
