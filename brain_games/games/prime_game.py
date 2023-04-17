@@ -3,6 +3,7 @@ import random
 
 
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+game_rounds = 3
 
 
 def is_prime(number):
@@ -17,8 +18,4 @@ def is_prime(number):
 def generate_round():
     question = random.randint(1, 100)
     correct_answer = 'yes' if is_prime(question) else 'no'
-    return generate_question(question, correct_answer)
-
-
-def main():
-    return run_game(3, DESCRIPTION, generate_round)
+    return question, correct_answer

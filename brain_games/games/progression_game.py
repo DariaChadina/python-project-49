@@ -3,6 +3,7 @@ import random
 
 
 DESCRIPTION = 'What number is missing in the progression?'
+game_rounds = 3
 
 
 def generate_round():
@@ -14,8 +15,4 @@ def generate_round():
     correct_answer = progression[hidden_index]
     progression[hidden_index] = '..'
     question = ' '.join(progression)
-    return generate_question(question, correct_answer)
-
-
-def main():
-    return run_game(3, DESCRIPTION, generate_round)
+    return question, correct_answer

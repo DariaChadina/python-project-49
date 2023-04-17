@@ -2,14 +2,14 @@
 import prompt
 
 
-def run_game(game_rounds, game_description, generate_round):
+def run_game(game_module):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(game_description)
+    print(game_module.DESCRIPTION)
 
-    for _ in range(game_rounds):
-        question, correct_answer = generate_round()
+    for _ in range(game_module.game_rounds):
+        question, correct_answer = game_module.generate_round()
         print(f'Question: {question}')
         user_answer = prompt.string('Your answer: ')
 

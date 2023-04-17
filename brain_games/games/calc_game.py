@@ -3,6 +3,7 @@ import random
 
 
 DESCRIPTION = 'What is the result of the expression?'
+game_rounds = 3
 
 
 def generate_round():
@@ -13,8 +14,4 @@ def generate_round():
     operation = random.choice(list(operations.keys()))
     question = f'{a} {operation} {b}'
     correct_answer = str(operations[operation](a, b))
-    return generate_question(question, correct_answer)
-
-
-def main():
-    return run_game(3, DESCRIPTION, generate_round)
+    return question, correct_answer
