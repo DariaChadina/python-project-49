@@ -6,6 +6,7 @@ from brain_games.games import progression_game
 
 def main():
     run_game(progression_game)
+    return
 
 
 if __name__ == '__main__':

@@ -6,6 +6,7 @@ from brain_games.games import prime_game
 
 def main():
     run_game(prime_game)
+    return
 
 
 if __name__ == '__main__':
