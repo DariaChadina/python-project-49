@@ -1,6 +1,4 @@
-from brain_games.game_logic import run_game, generate_question
 import random
-from prompt import string
 
 
 DESCRIPTION = 'What is the result of the expression?'
