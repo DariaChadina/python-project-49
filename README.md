@@ -46,8 +46,13 @@ Similarly, you can run the following commands to play the other games:
 
 You can see a demo of each game by following the Asciinema links below:
 
-* brain-even: https://asciinema.org/a/o3AelpChcmxbCyMq3GDHc7so9
-* brain-calc: https://asciinema.org/a/cs9iRaetcrYTByTIv1spfYDZi
-* brain-gcd: https://asciinema.org/a/zwzkmroS4PLaVxR6xXJziqoEj
-* brain-progression: https://asciinema.org/a/45gGExQiNuefrZn2rPd8tQiBF
-* brain-prime: https://asciinema.org/a/0OlhjLWAH3C5bGwcqvIVcKDTY
+* brain-even: 
+[![asciicast](https://asciinema.org/a/o3AelpChcmxbCyMq3GDHc7so9.svg)](https://asciinema.org/a/o3AelpChcmxbCyMq3GDHc7so9)
+* brain-calc: 
+[![asciicast](https://asciinema.org/a/cs9iRaetcrYTByTIv1spfYDZi.svg)](https://asciinema.org/a/cs9iRaetcrYTByTIv1spfYDZi)
+* brain-gcd: 
+[![asciicast](https://asciinema.org/a/zwzkmroS4PLaVxR6xXJziqoEj.svg)](https://asciinema.org/a/zwzkmroS4PLaVxR6xXJziqoEj)
+* brain-progression: 
+[![asciicast](https://asciinema.org/a/45gGExQiNuefrZn2rPd8tQiBF.svg)](https://asciinema.org/a/45gGExQiNuefrZn2rPd8tQiBF)
+* brain-prime: 
+[![asciicast](https://asciinema.org/a/0OlhjLWAH3C5bGwcqvIVcKDTY.svg)](https://asciinema.org/a/0OlhjLWAH3C5bGwcqvIVcKDTY)
