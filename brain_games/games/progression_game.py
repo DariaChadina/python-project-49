@@ -2,10 +2,9 @@ import random
 
 
 DESCRIPTION = 'What number is missing in the progression?'
-game_rounds = 3
 
 
-def generate_round():
+def get_question_and_answer():
     progression_length = random.randint(5, 10)
     start_num = random.randint(1, 50)
     step = random.randint(1, 5)

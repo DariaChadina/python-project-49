@@ -2,7 +2,6 @@ import random
 
 
 DESCRIPTION = 'Find the greatest common divisor of given numbers.'
-game_rounds = 3
 
 
 def gcd(num1, num2):
@@ -11,7 +10,7 @@ def gcd(num1, num2):
     return num1
 
 
-def generate_round():
+def get_question_and_answer():
     number1 = random.randint(1, 100)
     number2 = random.randint(1, 100)
     question = f"{number1} {number2}"
