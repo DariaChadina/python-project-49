@@ -51,8 +51,8 @@ You can see a demo of each game by following the Asciinema links below:
 * brain-calc: 
 [![asciicast](https://asciinema.org/a/cs9iRaetcrYTByTIv1spfYDZi.svg)](https://asciinema.org/a/cs9iRaetcrYTByTIv1spfYDZi)
 * brain-gcd: 
-[![asciicast](https://asciinema.org/a/zwzkmroS4PLaVxR6xXJziqoEj.svg)](https://asciinema.org/a/zwzkmroS4PLaVxR6xXJziqoEj)
+[![asciicast](https://asciinema.org/a/ju6T3HJNlmBm0uNQunHe6mRsv.svg)](https://asciinema.org/a/ju6T3HJNlmBm0uNQunHe6mRsv)
 * brain-progression: 
-[![asciicast](https://asciinema.org/a/45gGExQiNuefrZn2rPd8tQiBF.svg)](https://asciinema.org/a/45gGExQiNuefrZn2rPd8tQiBF)
+[![asciicast](https://asciinema.org/a/OtGSYcPz8ViHzr6JR5PHAIJa0.svg)](https://asciinema.org/a/OtGSYcPz8ViHzr6JR5PHAIJa0)
 * brain-prime: 
-[![asciicast](https://asciinema.org/a/0OlhjLWAH3C5bGwcqvIVcKDTY.svg)](https://asciinema.org/a/0OlhjLWAH3C5bGwcqvIVcKDTY)
+[![asciicast](https://asciinema.org/a/zDR5L4ocQIZbeJvtk7HCEP1o5.svg)](https://asciinema.org/a/zDR5L4ocQIZbeJvtk7HCEP1o5)
