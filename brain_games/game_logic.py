@@ -2,7 +2,7 @@
 import prompt
 
 
-game_rounds = 3
+GAME_ROUNDS = 3
 
 
 def run_game(game_module):
@@ -11,7 +11,7 @@ def run_game(game_module):
     print(f'Hello, {name}!')
     print(game_module.DESCRIPTION)
 
-    for _ in range(game_rounds):
+    for _ in range(GAME_ROUNDS):
         question, correct_answer = game_module.get_question_and_answer()
         print(f'Question: {question}')
         user_answer = prompt.string('Your answer: ')
